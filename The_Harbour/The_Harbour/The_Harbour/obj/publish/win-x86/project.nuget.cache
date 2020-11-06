@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0qyQ08g7c8J1QxBMFYO1ns+nViYljdyR8ul7Lu95GIjJAhZY/Y9NEqDJjsZrHShPx9Ngz3fDp+YnYugTPdVoeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victo\\OneDrive\\Dokument\\GitHub\\IT-Hogskolan-Stockholm-2020\\Lektioner\\Examinationsuppgift-VG-Nivå-WPF\\Examinationsuppgift-VG-Nivå-WPF\\Examinationsuppgift-VG-Nivå-WPF\\Examinationsuppgift-VG-Nivå-WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.7\\microsoft.netcore.app.runtime.win-x86.3.1.7.nupkg.sha512",
+    "C:\\Users\\Victo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.7\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.7.nupkg.sha512",
+    "C:\\Users\\Victo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.7\\microsoft.aspnetcore.app.runtime.win-x86.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
