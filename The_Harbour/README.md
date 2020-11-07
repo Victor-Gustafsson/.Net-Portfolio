@@ -10,3 +10,7 @@ Programming language: C# Run: Download the source code, go folder bin / release 
 A small school assignment from the IT Högskolan where the task was to simulate a marina with 2 docks. Each dock has 32 berths for incoming boats of various types. Every day boats check in and out from the marina and the program keeps track of the statistics. 
 
 ![image](https://github.com/[Victor-Gustafsson]/[.Net-Portfolio]/The_Harbour/[main]/Example.PNG?raw=true)
+![alt text](https://github.com/[Victor-Gustafsson]/[.Net-Portfolio]/blob/[main]/image.jpg?raw=true)
+![alt text](https://github.com/[Victor-Gustafsson]/[.Net-Portfolio]/The_Harbour/The_Harbour/[main]/image.jpg?raw=true)
+![Optional Text](../main/The_Harbour/Example.PNG)
+
