@@ -1,0 +1,13 @@
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\bin\Release\netcoreapp3.1\The_Harbour_Console_App.exe
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\bin\Release\netcoreapp3.1\The_Harbour_Console_App.deps.json
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\bin\Release\netcoreapp3.1\The_Harbour_Console_App.runtimeconfig.json
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\bin\Release\netcoreapp3.1\The_Harbour_Console_App.runtimeconfig.dev.json
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\bin\Release\netcoreapp3.1\The_Harbour_Console_App.dll
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\bin\Release\netcoreapp3.1\The_Harbour_Console_App.pdb
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\obj\Release\netcoreapp3.1\The_Harbour_Console_App.csprojAssemblyReference.cache
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\obj\Release\netcoreapp3.1\The_Harbour_Console_App.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\obj\Release\netcoreapp3.1\The_Harbour_Console_App.AssemblyInfo.cs
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\obj\Release\netcoreapp3.1\The_Harbour_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\obj\Release\netcoreapp3.1\The_Harbour_Console_App.dll
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\obj\Release\netcoreapp3.1\The_Harbour_Console_App.pdb
+C:\Users\Victo\Desktop\The_Harbour_Console_App\The_Harbour_Console_App\obj\Release\netcoreapp3.1\The_Harbour_Console_App.genruntimeconfig.cache
