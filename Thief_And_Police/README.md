@@ -14,5 +14,6 @@ C = citizen
 P = Police officer
 T = Thief
 
+
 ![image](../Thief_And_Police/Example.png)
 
