@@ -17,6 +17,7 @@ P = Police officer
 
 T = Thief
 
+X = Collision event
 
 ![image](../Thief_And_Police/Example.png)
 
