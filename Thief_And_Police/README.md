@@ -14,4 +14,5 @@ C = citizen
 P = Police officer
 T = Thief
 
-![image](../Thief_and_Police/Exampel.PNG)
+![image](../Thief_And_Police/Example.png)
+
