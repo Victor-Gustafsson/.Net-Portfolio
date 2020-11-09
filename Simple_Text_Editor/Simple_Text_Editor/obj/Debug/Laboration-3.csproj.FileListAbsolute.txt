@@ -1,0 +1,10 @@
+C:\Users\Victo\OneDrive\Dokument\GitHub\Karlstad_University_2020\Laboration-3\Laboration-3\bin\Debug\Laboration-3.exe.config
+C:\Users\Victo\OneDrive\Dokument\GitHub\Karlstad_University_2020\Laboration-3\Laboration-3\bin\Debug\Laboration-3.exe
+C:\Users\Victo\OneDrive\Dokument\GitHub\Karlstad_University_2020\Laboration-3\Laboration-3\bin\Debug\Laboration-3.pdb
+C:\Users\Victo\OneDrive\Dokument\GitHub\Karlstad_University_2020\Laboration-3\Laboration-3\obj\Debug\Laboration-3.csprojAssemblyReference.cache
+C:\Users\Victo\OneDrive\Dokument\GitHub\Karlstad_University_2020\Laboration-3\Laboration-3\obj\Debug\Laboration_3.MyMainForm.resources
+C:\Users\Victo\OneDrive\Dokument\GitHub\Karlstad_University_2020\Laboration-3\Laboration-3\obj\Debug\Laboration_3.Properties.Resources.resources
+C:\Users\Victo\OneDrive\Dokument\GitHub\Karlstad_University_2020\Laboration-3\Laboration-3\obj\Debug\Laboration-3.csproj.GenerateResource.cache
+C:\Users\Victo\OneDrive\Dokument\GitHub\Karlstad_University_2020\Laboration-3\Laboration-3\obj\Debug\Laboration-3.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Dokument\GitHub\Karlstad_University_2020\Laboration-3\Laboration-3\obj\Debug\Laboration-3.exe
+C:\Users\Victo\OneDrive\Dokument\GitHub\Karlstad_University_2020\Laboration-3\Laboration-3\obj\Debug\Laboration-3.pdb

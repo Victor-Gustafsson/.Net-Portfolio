@@ -1,0 +1,10 @@
+C:\Users\Victo\Desktop\Simple_Text_Editor\Simple_Text_Editor\bin\Debug\Simple_Text_Editor.exe.config
+C:\Users\Victo\Desktop\Simple_Text_Editor\Simple_Text_Editor\bin\Debug\Simple_Text_Editor.exe
+C:\Users\Victo\Desktop\Simple_Text_Editor\Simple_Text_Editor\bin\Debug\Simple_Text_Editor.pdb
+C:\Users\Victo\Desktop\Simple_Text_Editor\Simple_Text_Editor\obj\Debug\Simple_Text_Editor.csprojAssemblyReference.cache
+C:\Users\Victo\Desktop\Simple_Text_Editor\Simple_Text_Editor\obj\Debug\Simple_Text_Editor.MyMainForm.resources
+C:\Users\Victo\Desktop\Simple_Text_Editor\Simple_Text_Editor\obj\Debug\Simple_Text_Editor.Properties.Resources.resources
+C:\Users\Victo\Desktop\Simple_Text_Editor\Simple_Text_Editor\obj\Debug\Simple_Text_Editor.csproj.GenerateResource.cache
+C:\Users\Victo\Desktop\Simple_Text_Editor\Simple_Text_Editor\obj\Debug\Simple_Text_Editor.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Simple_Text_Editor\Simple_Text_Editor\obj\Debug\Simple_Text_Editor.exe
+C:\Users\Victo\Desktop\Simple_Text_Editor\Simple_Text_Editor\obj\Debug\Simple_Text_Editor.pdb
