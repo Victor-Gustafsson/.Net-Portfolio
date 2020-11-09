@@ -1,0 +1,18 @@
+C:\Users\Victo\Desktop\Uppgiften\TjuvOchPolis\bin\Debug\TjuvOchPolis.exe.config
+C:\Users\Victo\Desktop\Uppgiften\TjuvOchPolis\bin\Debug\TjuvOchPolis.exe
+C:\Users\Victo\Desktop\Uppgiften\TjuvOchPolis\bin\Debug\TjuvOchPolis.pdb
+C:\Users\Victo\Desktop\Uppgiften\TjuvOchPolis\obj\Debug\Thief_And_Police.csprojAssemblyReference.cache
+C:\Users\Victo\Desktop\Uppgiften\TjuvOchPolis\obj\Debug\Thief_And_Police.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Uppgiften\TjuvOchPolis\obj\Debug\TjuvOchPolis.exe
+C:\Users\Victo\Desktop\Uppgiften\TjuvOchPolis\obj\Debug\TjuvOchPolis.pdb
+C:\Users\Victo\Desktop\Thief and police\Thief_and_Police\bin\Debug\Thief and police.exe.config
+C:\Users\Victo\Desktop\Thief and police\Thief_and_Police\bin\Debug\Thief and police.exe.manifest
+C:\Users\Victo\Desktop\Thief and police\Thief_and_Police\bin\Debug\Thief and police.application
+C:\Users\Victo\Desktop\Thief and police\Thief_and_Police\bin\Debug\Thief and police.exe
+C:\Users\Victo\Desktop\Thief and police\Thief_and_Police\bin\Debug\Thief and police.pdb
+C:\Users\Victo\Desktop\Thief and police\Thief_and_Police\obj\Debug\Thief_And_Police.csprojAssemblyReference.cache
+C:\Users\Victo\Desktop\Thief and police\Thief_and_Police\obj\Debug\Thief_And_Police.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Thief and police\Thief_and_Police\obj\Debug\Thief and police.exe.manifest
+C:\Users\Victo\Desktop\Thief and police\Thief_and_Police\obj\Debug\Thief and police.application
+C:\Users\Victo\Desktop\Thief and police\Thief_and_Police\obj\Debug\Thief and police.exe
+C:\Users\Victo\Desktop\Thief and police\Thief_and_Police\obj\Debug\Thief and police.pdb

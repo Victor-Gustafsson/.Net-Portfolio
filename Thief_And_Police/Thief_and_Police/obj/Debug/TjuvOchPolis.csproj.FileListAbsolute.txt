@@ -1,0 +1,7 @@
+C:\Users\Victo\OneDrive\Dokument\GitHub\IT-Hogskolan-Stockholm-2020\Lektioner\Uppgiften\TjuvOchPolis\bin\Debug\TjuvOchPolis.exe.config
+C:\Users\Victo\OneDrive\Dokument\GitHub\IT-Hogskolan-Stockholm-2020\Lektioner\Uppgiften\TjuvOchPolis\bin\Debug\TjuvOchPolis.exe
+C:\Users\Victo\OneDrive\Dokument\GitHub\IT-Hogskolan-Stockholm-2020\Lektioner\Uppgiften\TjuvOchPolis\bin\Debug\TjuvOchPolis.pdb
+C:\Users\Victo\OneDrive\Dokument\GitHub\IT-Hogskolan-Stockholm-2020\Lektioner\Uppgiften\TjuvOchPolis\obj\Debug\TjuvOchPolis.csprojAssemblyReference.cache
+C:\Users\Victo\OneDrive\Dokument\GitHub\IT-Hogskolan-Stockholm-2020\Lektioner\Uppgiften\TjuvOchPolis\obj\Debug\TjuvOchPolis.csproj.CoreCompileInputs.cache
+C:\Users\Victo\OneDrive\Dokument\GitHub\IT-Hogskolan-Stockholm-2020\Lektioner\Uppgiften\TjuvOchPolis\obj\Debug\TjuvOchPolis.exe
+C:\Users\Victo\OneDrive\Dokument\GitHub\IT-Hogskolan-Stockholm-2020\Lektioner\Uppgiften\TjuvOchPolis\obj\Debug\TjuvOchPolis.pdb
