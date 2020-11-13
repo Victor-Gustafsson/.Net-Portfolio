@@ -3,7 +3,7 @@ A smaller portfolio of C # projects with .Net Core and .Net Framework
 ***
 ##### The Lottery Generator
 ###### Description
-A small school assignment at Karlstad university (02/10-20) where the task was to simulate a lottery generator. The application. The program shows the number of correct rows and if there is any winnings.
+A small school assignment at Karlstad university (02/10-20) where the task was to simulate a lottery generator application. The application shows the number of correct rows and if there is any winnings.
 ***
 ##### Simple Text Editor
 ###### Description
